@@ -1,5 +1,6 @@
 package com.chong;
 
+import com.chong.lock.RedisLock;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
